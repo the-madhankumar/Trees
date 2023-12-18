@@ -1,10 +1,11 @@
-Python Data Structures: Trees Practice
+**Python Data Structures: Trees Practice**
+
 Welcome to my Python Data Structures: Trees practice repository! 
 
 🌲 In this collection, I've explored and implemented key concepts related to tree structures. These files are a result of my hands-on learning and practice sessions.
 
 Contents
-Binary Trees Implementation
+**Binary Trees Implementation**
 
 Code files for creating and working with Binary Trees.
 Explore the hierarchical nature of binary trees and their applications.
@@ -25,7 +26,7 @@ Check out the code and dive into the world of Python tree structures! Feel free 
 
 👉 https://github.com/the-madhankumar/Trees
 
-Note
+**Note**
 These files are a result of personal practice and learning. They are not part of real-time projects but serve as a valuable resource for understanding and applying tree structures in Python.
 
 Feel free to reach out if you have any questions or suggestions. Happy coding! 🚀
